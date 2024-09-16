@@ -1,7 +1,7 @@
 ---
 title: 'Google Analytics'
 linkTitle: 'Google Analytics'
-date: 2019-11-19
+date: 2024-9-19
 weight: 10
 description: >
   Set Up Google Analytics Goals

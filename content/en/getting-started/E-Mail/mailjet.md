@@ -2,7 +2,7 @@
 title: 'Mailjet'
 linkTitle: 'Mailjet'
 weight: 4
-date: 2019-10-14
+date: 2024-9-14
 description: >
   How to configure ticketeer to send e-mails using Mailjet APIs
 ---

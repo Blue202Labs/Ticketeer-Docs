@@ -2,7 +2,7 @@
 title: 'Basic Configuration'
 linkTitle: 'Basic Configuration'
 weight: 3
-date: 2019-10-14
+date: 2024-9-14
 description: >
   How to set the minimum, required information
 ---

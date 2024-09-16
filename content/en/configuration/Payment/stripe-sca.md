@@ -1,7 +1,7 @@
 ---
 title: 'Enable Strong Customer Authentication on Stripe'
 linkTitle: 'Stripe: enable SCA'
-date: 2019-10-14
+date: 2024-9-14
 weight: 2
 description: >
   How to enable Strong Customer Authentication (_a.k.a. 3DSecure 2.0_) for your

@@ -1,8 +1,10 @@
 ---
-title: Documentation
+title: Ticketeer Documentation
 linkTitle: Ticketeer Docs
 menu: { main: { weight: 20 } }
 ---
+
+# Ticketeer Documentation
 
 {{% pageinfo %}}
 

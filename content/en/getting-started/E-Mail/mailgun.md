@@ -2,7 +2,7 @@
 title: 'Mailgun'
 linkTitle: 'Mailgun'
 weight: 5
-date: 2019-10-14
+date: 2024-9-14
 description: >
   How to configure ticketeer to send e-mails using Mailgun APIs
 ---
